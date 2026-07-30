@@ -1,2 +1,2 @@
 # SoloDev_WinterHorrorGame
-A small Blueprints-only first-person horror game.
+A small first-person horror game. Currently WIP
